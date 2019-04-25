@@ -1,0 +1,3 @@
+rootProject.name = 'netgraph_2735'
+
+include ':app'
